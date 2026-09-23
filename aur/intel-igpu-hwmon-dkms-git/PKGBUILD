@@ -3,7 +3,7 @@
 pkgname=intel-igpu-hwmon-dkms-git
 _modname=intel-igpu-hwmon
 _subdir=intel-igpu-hwmon
-pkgver=r1.0000000
+pkgver=r2.de3c9e0
 pkgrel=1
 pkgdesc="hwmon power, temperature and memory clock for Intel integrated GPUs on xe, DKMS"
 arch=('any')
