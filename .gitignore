@@ -1,0 +1,12 @@
+*.o
+*.ko
+*.mod
+*.mod.c
+.*.cmd
+Module.symvers
+modules.order
+gna/gna_config.h
+aur/*/src/
+aur/*/pkg/
+aur/*/intel-client-dkms/
+*.pkg.tar.*
